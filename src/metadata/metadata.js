@@ -111,6 +111,7 @@ module.exports = {
       company: 'T.A.L.K.',
       title: 'Senior CS Capstone Project, sponsored by Invoca',
       location: 'https://github.com/cs189-invoca-capstone/cs189_invoca',
+      page: 'GitHub Repo',
       period: 'Sep 2021 - Mar 2022',
       skills: ['Express', 'JavaScript', 'Heroku', 'CSS', 'MongoDB', 'GitHub', 'Agile Development'],
       contents: `
@@ -127,6 +128,7 @@ module.exports = {
       company: 'UCSB Courses Search',
       title: 'Project for CMPSC 156: Advanced Applications Programming',
       location: 'https://github.com/cs189-invoca-capstone/cs189_invoca',
+      page: 'Application',
       period: 'Mar 2021 - Jun 2021',
       skills: ['React', 'Heroku', 'Spring Boot', 'Auth0', 'GitHub', 'Agile Development'],
       contents: `
@@ -137,6 +139,7 @@ module.exports = {
     {
       company: 'Vision Test',
       location: 'https://sites.google.com/view/ece153b-visiontest/home',
+      page: 'Project Page',
       title: 'Project for ECE 153B: Sensor and Peripheral Interface Design',
       period: 'Feb 2021 - Mar 2021',
       skills: ['C', 'STM32 Microcontroller', 'I2C', 'SPI', 'Peripherals', 'Product Design'],
@@ -152,6 +155,7 @@ module.exports = {
     {
       company: 'COVID-19 Survival Naive Bayes Classifier',
       location: 'https://github.com/sydneylim/cs165a_mp1',
+      page: 'GitHub Repo',
       title: 'Project for CMPSC 165A: Artificial Intelligence',
       period: 'Jan 2021 - Feb 2021',
       skills: ['Artificial Intelligence', 'Machine Learning', 'Python', 'NumPy', 'SciPy', 'Data Processing', 'Modeling'],
