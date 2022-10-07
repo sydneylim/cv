@@ -42,7 +42,7 @@ module.exports = {
       `
     },
     {
-      company: 'Jones Lan LaSalle',
+      company: 'Jones Lang LaSalle',
       location: 'San Francisco, CA',
       title: 'Data Loss Prevention (DLP) Intern',
       period: 'Aug 2021 - Sep 2021',
