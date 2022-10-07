@@ -110,7 +110,7 @@ module.exports = {
     {
       company: 'T.A.L.K.',
       title: 'Senior CS Capstone Project, sponsored by Invoca',
-      location: '<a href="https://github.com/cs189-invoca-capstone/cs189_invoca"></i>GitHub Repo</a>',
+      location: '<a href="https://github.com/cs189-invoca-capstone/cs189_invoca">GitHub Repo</a>',
       period: 'Sep 2021 - Mar 2022',
       skills: ['Express', 'JavaScript', 'Heroku', 'CSS', 'MongoDB', 'GitHub', 'Agile Development'],
       contents: `
@@ -126,7 +126,7 @@ module.exports = {
     {
       company: 'UCSB Courses Search',
       title: 'Project for CMPSC 156: Advanced Applications Programming',
-      location: '<a href="https://github.com/cs189-invoca-capstone/cs189_invoca"></i>GitHub Repo</a>',
+      location: '<a href="https://github.com/cs189-invoca-capstone/cs189_invoca">Application</a>',
       period: 'Mar 2021 - Jun 2021',
       skills: ['React', 'Heroku', 'Spring Boot', 'Auth0', 'GitHub', 'Agile Development'],
       contents: `
@@ -136,7 +136,7 @@ module.exports = {
     },
     {
       company: 'Vision Test',
-      location: '<a href="https://sites.google.com/view/ece153b-visiontest/home"></i>Project Page</a>',
+      location: '<a href="https://sites.google.com/view/ece153b-visiontest/home">Project Page</a>',
       title: 'Project for ECE 153B: Sensor and Peripheral Interface Design',
       period: 'Feb 2021 - Mar 2021',
       skills: ['C', 'STM32 Microcontroller', 'I2C', 'SPI', 'Peripherals', 'Product Design'],
@@ -151,9 +151,10 @@ module.exports = {
     },
     {
       company: 'COVID-19 Survival Naive Bayes Classifier',
-      title: 'Project for CMPSC 165B: Machine Learning',
+      location: <a href="https://github.com/sydneylim/cs165a_mp1">GitHub Repo</a>,
+      title: 'Project for CMPSC 165A: Artificial Intelligence',
       period: 'Jan 2021 - Feb 2021',
-      skills: ['Machine Learning', 'Python', 'NumPy', 'SciPy', 'Data Processing', 'Modeling'],
+      skills: ['Artificial Intelligence', 'Machine Learning', 'Python', 'NumPy', 'SciPy', 'Data Processing', 'Modeling'],
       contents: `
 * Designed a Naive Bayes Classifier in Python that determines whether a patient will survive from COVID-19 given their preconditions.
 * Preprocessed and cleansed training and validation data sets using NumPy and SciPy.
