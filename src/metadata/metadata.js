@@ -5,7 +5,7 @@ module.exports = {
     'Location': 'Fremont, CA',
     'LinkedIn': '<a href="https://www.linkedin.com/in/scqlim/"></i>Sydney Lim</a>',
     'GitHub': '<a href="https://github.com/sydneylim"></i>sydneylim</a>',
-    'Email': '<a href="scqlim@gmail.com"></i>scqlim@gmail.com</a>'
+    'Email': 'scqlim@gmail.com'
   },
   skills: [
     ['C', 100],
@@ -40,8 +40,8 @@ module.exports = {
       period: 'Jun 2022 - Sep 2022',
       skills: ['Ruby on Rails', 'Full Stack Development', 'Agile Software Development', 'React.js', 'RubyMine'],
       contents: `
-      * Worked closely in with a team on full-stack software development using Ruby on Rails and React.js.
-      * Practiced agile software development skills and consistently participated in pair programming, standups, retropectives, and backlog refinement.
+* Worked closely in with a team on full-stack software development using Ruby on Rails and React.js.
+* Practiced agile software development skills and consistently participated in pair programming, standups, retropectives, and backlog refinement.
       `
     },
     {
@@ -51,9 +51,9 @@ module.exports = {
       period: 'Aug 2021 - Sep 2021',
       skills: ['Python', 'Microsoft Power BI', 'Tableau', 'SQL', 'Robotic Process Automation (RPA)'],
       contents: `
-      * Worked on a data loss prevention project with a goal to pinpoint sources of and minimize internal threats.
-      * Implemented robotic process automation (RPA) script to automate data extraction in Python.
-      * Utilized Microsoft Power BI, Tableau, and SQL to compile, cleanse, analyze, and present the data.
+* Worked on a data loss prevention project with a goal to pinpoint sources of and minimize internal threats.
+* Implemented robotic process automation (RPA) script to automate data extraction in Python.
+* Utilized Microsoft Power BI, Tableau, and SQL to compile, cleanse, analyze, and present the data.
       `
     },
     {
@@ -63,13 +63,13 @@ module.exports = {
       period: 'Jun 2019 - Sep 2019',
       skills: ['MySQL', 'PostgreSQL', 'Microsoft Power BI', 'Prototyping', 'Product Design'],
       contents: `
-      * Designed a database in MySQL/PostgreSQL. Utilized Microsoft Power BI to cleanse a user database.
-      * Designed and presented a prototype UI for the database in a pre-production environment.
-      *	Researched natural language processing and data warehouses (Amazon AWS, Microsoft Azure, Google BigQuery).
+* Designed a database in MySQL/PostgreSQL. Utilized Microsoft Power BI to cleanse a user database.
+* Designed and presented a prototype UI for the database in a pre-production environment.
+* Researched natural language processing and data warehouses (Amazon AWS, Microsoft Azure, Google BigQuery).
       `
     }
   ],
-  
+
   education: [
     {
       company: 'UC Santa Barbara',
@@ -77,10 +77,10 @@ module.exports = {
       title: 'Master of Science in Computer Science',
       period: 'Expected Jun 2023',
       contents: `
-      * GPA: 4.0/4.0
-      *	Programs: 5-year B.S./M.S. Program in Computer Science
-      *	Coursework in: Scalable Internet Services, Augmented Reality, Computer Graphics, Operating Systems, Runtime Systems
-      *	Extracurricular Activities: Four Eyes Lab (Pursuing research in human-computer interaction, computer vision, and augmented reality), UCSB Badminton Club
+* GPA: 4.0/4.0
+* Programs: 5-year B.S./M.S. Program in Computer Science
+* Coursework in: Scalable Internet Services, Augmented Reality, Computer Graphics, Operating Systems, Runtime Systems
+* Extracurricular Activities: Four Eyes Lab (Pursuing research in human-computer interaction, computer vision, and augmented reality), UCSB Badminton Club
       `
     },
     {
@@ -89,10 +89,10 @@ module.exports = {
       title: 'Bachelor of Science in Computer Engineering',
       period: 'Sep 2018 - Mar 2022',
       contents: `
-      *	GPA: 3.7/4.0
-      *	Programs: College of Engineering Honors Program, 5-year B.S./M.S Program in Computer Science
-      *	Coursework in: Data Structures and Algorithms, Artificial Intelligence, Machine Learning, Computer Vision, Digital Image Processing, Operating Systems, Network Computing, Advanced Applications Programming, Object-Oriented Design, Sensor and Peripheral Interface Design
-      *	Extracurricular Activities: Co-Founder and Vice President of UCSB Badminton Club (4 years)
+* GPA: 3.7/4.0
+* Programs: College of Engineering Honors Program, 5-year B.S./M.S Program in Computer Science
+* Coursework in: Data Structures and Algorithms, Artificial Intelligence, Machine Learning, Computer Vision, Digital Image Processing, Operating Systems, Network Computing, Advanced Applications Programming, Object-Oriented Design, Sensor and Peripheral Interface Design
+* Extracurricular Activities: Co-Founder and Vice President of UCSB Badminton Club (4 years)
       `
     },
     {
@@ -101,11 +101,11 @@ module.exports = {
       title: 'High School Diploma',
       period: 'Aug 2014 - Jun 2018',
       contents: `
-      * UC Weighted GPA: 4.50 (Uncapped), 4.14 (Capped)
-      * SAT I: 1560/1600
-      * SAT II Chemistry: 800/800 
-      * SAT II Math L2: 800/800
-      * Relevant AP classes: AP Chemistry, AP Physics C, AP Biology, AP Calculus BC, AP Computer Science (in Java), and AP English Language and Composition
+* UC Weighted GPA: 4.50 (Uncapped), 4.14 (Capped)
+* SAT I: 1560/1600
+* SAT II Chemistry: 800/800 
+* SAT II Math L2: 800/800
+* Relevant AP classes: AP Chemistry, AP Physics C, AP Biology, AP Calculus BC, AP Computer Science (in Java), and AP English Language and Composition
       `
     }
   ]
