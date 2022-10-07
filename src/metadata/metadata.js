@@ -151,7 +151,7 @@ module.exports = {
     },
     {
       company: 'COVID-19 Survival Naive Bayes Classifier',
-      location: <a href="https://github.com/sydneylim/cs165a_mp1">GitHub Repo</a>,
+      location: '<a href="https://github.com/sydneylim/cs165a_mp1">GitHub Repo</a>',
       title: 'Project for CMPSC 165A: Artificial Intelligence',
       period: 'Jan 2021 - Feb 2021',
       skills: ['Artificial Intelligence', 'Machine Learning', 'Python', 'NumPy', 'SciPy', 'Data Processing', 'Modeling'],
