@@ -34,44 +34,79 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'Hamlet',
-      period: 'Likely early 17th century',
-      skills: ['tragedy', 'philosophy', 'death'],
+      company: 'Invoca',
+      location: 'Santa Barbara, CA',
+      title: 'Software Engineering Intern',
+      period: 'Jun 2022 - Sep 2022',
+      skills: ['Ruby on Rails', 'Full Stack Development', 'Agile Software Development', 'React.js', 'RubyMine'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
-`
+      * Worked closely in with a team on full-stack software development using Ruby on Rails and React.js.
+      * Practiced agile software development skills and consistently participated in pair programming, standups, retropectives, and backlog refinement.
+      `
     },
     {
-      title: 'Twelfth Night',
-      period: '1600 – 1601',
-      skills: ['comedy', 'love'],
+      company: 'Jones Lan LaSalle',
+      location: 'San Francisco, CA',
+      title: 'Data Loss Prevention (DLP) Intern',
+      period: 'Aug 2021 - Sep 2021',
+      skills: ['Python', 'Microsoft Power BI', 'Tableau', 'SQL', 'Robotic Process Automation (RPA)'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
-`
+      * Worked on a data loss prevention project with a goal to pinpoint sources of and minimize internal threats.
+      * Implemented robotic process automation (RPA) script to automate data extraction in Python.
+      * Utilized Microsoft Power BI, Tableau, and SQL to compile, cleanse, analyze, and present the data.
+      `
     },
     {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
-      skills: ['tragedy', 'death', 'love'],
+      company: 'Bertram Labs',
+      location: 'Foster City, CA',
+      title: 'Summer Intern',
+      period: 'Jun 2019 - Sep 2019',
+      skills: ['MySQL', 'PostgreSQL', 'Microsoft Power BI', 'Prototyping', 'Product Design'],
       contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
-`
+      * Designed a database in MySQL/PostgreSQL. Utilized Microsoft Power BI to cleanse a user database.
+      * Designed and presented a prototype UI for the database in a pre-production environment.
+      *	Researched natural language processing and data warehouses (Amazon AWS, Microsoft Azure, Google BigQuery).
+      `
     }
   ],
-  experience: [
+  
+  education: [
     {
-      header: 'Performance',
-      skills: ['theater', 'play'],
+      company: 'UC Santa Barbara',
+      location: 'Santa Barbara, CA',
+      title: 'Master of Science in Computer Science',
+      period: 'Expected Jun 2023',
       contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
-`
+      * GPA: 4.0/4.0
+      *	Programs: 5-year B.S./M.S. Program in Computer Science
+      *	Coursework in: Scalable Internet Services, Augmented Reality, Computer Graphics, Operating Systems, Runtime Systems
+      *	Extracurricular Activities: Four Eyes Lab (Pursuing research in human-computer interaction, computer vision, and augmented reality), UCSB Badminton Club
+      `
     },
     {
-      header: 'Poetry',
-      skills: ['poetry', 'erotic'],
+      company: 'UC Santa Barbara',
+      location: 'Santa Barbara, CA',
+      title: 'Bachelor of Science in Computer Engineering',
+      period: 'Sep 2018 - Mar 2022',
       contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
-`
+      *	GPA: 3.7/4.0
+      *	Programs: College of Engineering Honors Program, 5-year B.S./M.S Program in Computer Science
+      *	Coursework in: Data Structures and Algorithms, Artificial Intelligence, Machine Learning, Computer Vision, Digital Image Processing, Operating Systems, Network Computing, Advanced Applications Programming, Object-Oriented Design, Sensor and Peripheral Interface Design
+      *	Extracurricular Activities: Co-Founder and Vice President of UCSB Badminton Club (4 years)
+      `
+    },
+    {
+      company: 'American High School',
+      location: 'Fremont, CA',
+      title: 'High School Diploma',
+      period: 'Aug 2014 - Jun 2018',
+      contents: `
+      * UC Weighted GPA: 4.50 (Uncapped), 4.14 (Capped)
+      * SAT I: 1560/1600
+      * SAT II Chemistry: 800/800 
+      * SAT II Math L2: 800/800
+      * Relevant AP classes: AP Chemistry, AP Physics C, AP Biology, AP Calculus BC, AP Computer Science (in Java), and AP English Language and Composition
+      `
     }
   ]
 };
