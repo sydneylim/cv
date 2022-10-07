@@ -127,7 +127,7 @@ module.exports = {
     {
       company: 'UCSB Courses Search',
       title: 'Project for CMPSC 156: Advanced Applications Programming',
-      location: 'https://github.com/cs189-invoca-capstone/cs189_invoca',
+      location: 'https://proj-ucsb-courses-search.herokuapp.com/',
       page: 'Application',
       period: 'Mar 2021 - Jun 2021',
       skills: ['React', 'Heroku', 'Spring Boot', 'Auth0', 'GitHub', 'Agile Development'],
