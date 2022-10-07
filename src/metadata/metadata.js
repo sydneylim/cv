@@ -69,7 +69,7 @@ module.exports = {
 
   education: [
     {
-      company: 'UC Santa Barbara',
+      company: 'University of California, Santa Barbara',
       location: 'Santa Barbara, CA',
       title: 'Master of Science in Computer Science',
       period: 'Expected Jun 2023',
@@ -81,7 +81,7 @@ module.exports = {
       `
     },
     {
-      company: 'UC Santa Barbara',
+      company: 'Universtiy of California, Santa Barbara',
       location: 'Santa Barbara, CA',
       title: 'Bachelor of Science in Computer Engineering',
       period: 'Sep 2018 - Mar 2022',
