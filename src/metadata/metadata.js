@@ -21,6 +21,7 @@ module.exports = {
     ['MySQL', 75],
     ['PostgreSQL', 75],
     ['AWS', 75],
+    ['Eucalyptus', 50],
     ['Apache Bench', 100],
     ['GitHub', 100],
     ['Agile', 100],
