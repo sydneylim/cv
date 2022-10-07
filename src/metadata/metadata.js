@@ -40,7 +40,7 @@ module.exports = {
       period: 'Jun 2022 - Sep 2022',
       skills: ['Ruby on Rails', 'Full Stack Development', 'Agile Software Development', 'React.js', 'RubyMine'],
       contents: `
-* Worked closely in with a team on full-stack software development using Ruby on Rails and React.js.
+* Worked closely with a small team on full-stack software development using Ruby on Rails and React.js.
 * Practiced agile software development skills and consistently participated in pair programming, standups, retropectives, and backlog refinement.
       `
     },
