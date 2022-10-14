@@ -27,7 +27,7 @@ module.exports = {
     ['Agile', 100],
     ['Jupyter', 100],
     ['MATLAB', 100],
-    ['Unix/Linux', 100],
+    ['RubyMine', 100],
   ],
   positions: [
     {
@@ -37,8 +37,8 @@ module.exports = {
       period: 'Jun 2022 - Sep 2022',
       skills: ['Ruby on Rails', 'Full Stack Development', 'Agile Software Development', 'React.js', 'RubyMine'],
       contents: `
-* Worked closely with a small team on full-stack software development using Ruby on Rails and React.js.
-* Practiced agile software development skills and consistently participated in pair programming, standups, retrospectives, and backlog refinement.
+* Worked with a small team on full-stack software development using Ruby on Rails and React.js.
+* Practiced agile software development skills through pair programming, standups, retrospectives, and backlog refinement.
       `
     },
     {
@@ -48,7 +48,7 @@ module.exports = {
       period: 'Aug 2021 - Sep 2021',
       skills: ['Python', 'Microsoft Power BI', 'Tableau', 'SQL', 'Robotic Process Automation (RPA)'],
       contents: `
-* Worked on a data loss prevention project with a goal to pinpoint sources of and minimize internal threats.
+* Worked on a data loss prevention project to pinpoint sources of and minimize internal threats.
 * Implemented robotic process automation (RPA) script to automate data extraction in Python.
 * Utilized Microsoft Power BI, Tableau, and SQL to compile, cleanse, analyze, and present the data.
       `
