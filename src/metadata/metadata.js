@@ -10,6 +10,7 @@ module.exports = {
   skills: [
     ['C', 100],
     ['C++', 100],
+    ['Python', 100],
     ['Java', 100],
     ['JavaScript', 100],
     ['Ruby on Rails', 100],
@@ -21,7 +22,6 @@ module.exports = {
     ['MySQL', 75],
     ['PostgreSQL', 75],
     ['AWS', 75],
-    ['Eucalyptus', 50],
     ['Apache Bench', 100],
     ['GitHub', 100],
     ['Agile', 100],
