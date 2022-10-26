@@ -56,7 +56,7 @@ module.exports = {
     {
       company: 'Bertram Labs',
       location: 'Foster City, CA',
-      title: 'Summer Intern',
+      title: 'Data Science Intern',
       period: 'Jun 2019 - Sep 2019',
       skills: ['MySQL', 'PostgreSQL', 'Microsoft Power BI', 'Prototyping', 'Product Design'],
       contents: `
