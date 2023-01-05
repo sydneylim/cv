@@ -22,7 +22,7 @@ module.exports = {
     ['MySQL', 75],
     ['PostgreSQL', 75],
     ['AWS', 75],
-    ['Apache Bench', 100],
+    ['Load Testing', 100],
     ['GitHub', 100],
     ['Agile', 100],
     ['Jupyter', 100],
@@ -74,7 +74,7 @@ module.exports = {
       title: 'Master of Science in Computer Science',
       period: 'Expected Jun 2023',
       contents: `
-* GPA: 4.0/4.0
+* GPA: 3.94/4.00
 * Programs: 5-year B.S./M.S. Program in Computer Science
 * Coursework in: Scalable Internet Services, Augmented Reality, Computer Graphics, Operating Systems, Runtime Systems
 * Extracurricular Activities: Four Eyes Lab (Pursuing research in human-computer interaction, computer vision, and augmented reality), UCSB Badminton Club
@@ -108,6 +108,33 @@ module.exports = {
   ],
 
   projects: [
+    {
+      company: 'OffTheRails Online Store',
+      title: 'Project for CMSPC 291A: Scalable Internet Services',
+      location: 'https://github.com/scalableinternetservices/OffTheRails',
+      page: 'GitHub Repo',
+      period: 'Sep 2022 - Dec 2022',
+      skills: ['Ruby', 'Rails', 'Tsung', 'Load Testing', 'AWS Elastic Beanstalk', 'GitHub', 'Agile Development'],
+      contents: `
+* Worked in a team of six to develop a Ruby on Rails online store web application deployed on AWS Elastic Beanstalk.
+* Analyzed the application's scalability by identifying bottlenecks and applying various optimizations.
+* Conducted cost analysis to find the optimal EB instance configuration through Tsung load testing.
+* Maintained a well-documented code base with version control, and touched base with mentors weekly and with team members daily.
+`
+    },
+    {
+      company: 'ChromesthesiAR',
+      title: 'Project for CMSPC 291A: Future User Interfaces',
+      location: 'https://github.com/sydneylim/chromesthesiAR',
+      page: 'GitHub Repo',
+      period: 'Sep 2022 - Dec 2022',
+      skills: ['Unity', 'Augmented Reality', 'iOS Development', 'Human Computer Interfaces', 'User Study', 'GitHub'],
+      contents: `
+* Worked in a team of three to develop a Unity AR application for iOS.
+* Developed an AR drawing application to explore chromesthesia. The application allowed the user to draw either in 3D space or on a 2D surface. The device analyzed sounds in the user's surroundings and modified the brush color accordingly.
+* Conducted a user study to investigate associations between color and sound.
+`
+    },
     {
       company: 'T.A.L.K.',
       title: 'Senior CS Capstone Project, sponsored by Invoca',
