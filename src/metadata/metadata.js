@@ -113,7 +113,7 @@ module.exports = {
       title: 'Project for CMSPC 291A: Scalable Internet Services',
       location: 'https://github.com/scalableinternetservices/OffTheRails',
       page: 'GitHub Repo',
-      period: 'Sep 2022 - Dec 2022',
+      period: 'Oct 2022 - Dec 2022',
       skills: ['Ruby', 'Rails', 'Tsung', 'Load Testing', 'AWS Elastic Beanstalk', 'GitHub', 'Agile Development'],
       contents: `
 * Worked in a team of six to develop a Ruby on Rails online store web application deployed on AWS Elastic Beanstalk.
