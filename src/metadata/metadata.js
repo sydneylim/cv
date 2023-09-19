@@ -19,15 +19,14 @@ module.exports = {
     ['Express', 75],
     ['Heroku', 75],
     ['MongoDB', 50],
-    ['MySQL', 75],
-    ['PostgreSQL', 75],
+    ['MySQL/PostgreSQL', 75],
+    ['R', 50],
     ['AWS', 75],
+    ['Autodesk Fusion 360', 75],
     ['Load Testing', 100],
-    ['GitHub', 100],
+    ['Git', 100],
     ['Agile', 100],
-    ['Jupyter', 100],
     ['MATLAB', 100],
-    ['RubyMine', 100],
   ],
   positions: [
     {
@@ -74,14 +73,14 @@ module.exports = {
       title: 'Master of Science in Computer Science',
       period: 'Expected Jun 2023',
       contents: `
-* GPA: 3.94/4.00
+* GPA: 3.9/4.0
 * Programs: 5-year B.S./M.S. Program in Computer Science
-* Coursework in: Scalable Internet Services, Augmented Reality, Computer Graphics, Operating Systems, Runtime Systems
-* Extracurricular Activities: Four Eyes Lab (Pursuing research in human-computer interaction, computer vision, and augmented reality), UCSB Badminton Club
+* Coursework in: Scalable Internet Services, Augmented Reality, Computer Graphics, Operating Systems, Runtime Systems, Program Analysis, Computer Vision, Adversarial Machine Learning
+* Extracurricular Activities: Four Eyes Lab (Research in eye tracking in mixed reality), UCSB Badminton Club
       `
     },
     {
-      company: 'Universtiy of California, Santa Barbara',
+      company: 'University of California, Santa Barbara',
       location: 'Santa Barbara, CA',
       title: 'Bachelor of Science in Computer Engineering',
       period: 'Sep 2018 - Mar 2022',
@@ -108,6 +107,17 @@ module.exports = {
   ],
 
   projects: [
+    {
+      company: 'Meta Quest Pro Eye Tracking Test Suite (EyeTTS)',
+      title: 'Master of Science Research Project',
+      location: 'https://github.com/sydneylim/QuestPro_EyeTracking',
+      page: 'GitHub Repo',
+      period: 'May 2023 - Sep 2023',
+      skills: ['Unity', 'Oculus', 'AR/VR', 'Autodesk Fusion 360', 'Design', 'GitHub'],
+      contents: `
+      As new commercial augmented reality (AR) and virtual reality (VR) headsets have been developed and released, eye tracking has become a critical feature as a means of user interaction and as a way to determine user behavior and attention. However, there is a lack of a standardized metric for measuring the accuracy of the eye tracking technology built into these headsets. Moreover, we lack a much-needed baseline for evaluating eye tracking when head movement, body movement, and locomotion are involved, as calibration methods are typically designed for stationary settings. We introduce the Meta Quest Pro Eye Tracking Test Suite (EyeTTS). Our goal is to create an eye tracking test suite to evaluate and calibrate eye tracking data, specifically in scenarios with varying degrees of movement, by presenting a stimulus in either a world-stabilized or screen-stabilized scenario. We additionally analyze the effects of presenting the stimulus in a VR environment in contrast to an AR one on a user's visual perception.
+`
+    },
     {
       company: 'OffTheRails Online Store',
       title: 'Project for CMSPC 291A: Scalable Internet Services',
