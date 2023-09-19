@@ -71,7 +71,7 @@ module.exports = {
       company: 'University of California, Santa Barbara',
       location: 'Santa Barbara, CA',
       title: 'Master of Science in Computer Science',
-      period: 'Expected Jun 2023',
+      period: 'Mar 2022 - Sep 2023',
       contents: `
 * GPA: 3.9/4.0
 * Programs: 5-year B.S./M.S. Program in Computer Science
